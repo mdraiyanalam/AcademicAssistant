@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AcademicAssistant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AcademicAssistant.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Semester 17th 241\\CSE327.7 MMA1\\All about Project\\Final AcademicAssistant\\AcademicAssistant\\AcademicAssistant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AcademicAssistant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AcademicAssistant.props",
+      "PackagePath": "build\\AcademicAssistant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AcademicAssistant.props",
+      "PackagePath": "buildMultiTargeting\\AcademicAssistant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AcademicAssistant.props",
+      "PackagePath": "buildTransitive\\AcademicAssistant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
